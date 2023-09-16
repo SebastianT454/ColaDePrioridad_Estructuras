@@ -1,0 +1,14 @@
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\bin\Debug\net6.0\ColaDePrioridad.exe
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\bin\Debug\net6.0\ColaDePrioridad.deps.json
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\bin\Debug\net6.0\ColaDePrioridad.runtimeconfig.json
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\bin\Debug\net6.0\ColaDePrioridad.dll
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\bin\Debug\net6.0\ColaDePrioridad.pdb
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\obj\Debug\net6.0\ColaDePrioridad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\obj\Debug\net6.0\ColaDePrioridad.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\obj\Debug\net6.0\ColaDePrioridad.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\obj\Debug\net6.0\ColaDePrioridad.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\obj\Debug\net6.0\ColaDePrioridad.dll
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\obj\Debug\net6.0\refint\ColaDePrioridad.dll
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\obj\Debug\net6.0\ColaDePrioridad.pdb
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\obj\Debug\net6.0\ColaDePrioridad.genruntimeconfig.cache
+C:\Users\Sebastian\source\repos\ColaDePrioridad\ColaDePrioridad\obj\Debug\net6.0\ref\ColaDePrioridad.dll

@@ -1,0 +1,14 @@
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\bin\Debug\net6.0\EstructurasDinamicas-ColasDePrioridad.exe
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\bin\Debug\net6.0\EstructurasDinamicas-ColasDePrioridad.deps.json
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\bin\Debug\net6.0\EstructurasDinamicas-ColasDePrioridad.runtimeconfig.json
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\bin\Debug\net6.0\EstructurasDinamicas-ColasDePrioridad.dll
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\bin\Debug\net6.0\EstructurasDinamicas-ColasDePrioridad.pdb
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\obj\Debug\net6.0\EstructurasDinamicas-ColasDePrioridad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\obj\Debug\net6.0\EstructurasDinamicas-ColasDePrioridad.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\obj\Debug\net6.0\EstructurasDinamicas-ColasDePrioridad.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\obj\Debug\net6.0\EstructurasDinamicas-ColasDePrioridad.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\obj\Debug\net6.0\EstructurasDinamicas-ColasDePrioridad.dll
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\obj\Debug\net6.0\refint\EstructurasDinamicas-ColasDePrioridad.dll
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\obj\Debug\net6.0\EstructurasDinamicas-ColasDePrioridad.pdb
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\obj\Debug\net6.0\EstructurasDinamicas-ColasDePrioridad.genruntimeconfig.cache
+C:\Users\Sebastian\source\repos\EstructurasDinamicas-ColasDePrioridad\EstructurasDinamicas-ColasDePrioridad\obj\Debug\net6.0\ref\EstructurasDinamicas-ColasDePrioridad.dll
